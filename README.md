@@ -1,4 +1,4 @@
-# ItsRes
+# Hype
 
 Welcome to the ItsRes GitHub page!
 
