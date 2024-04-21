@@ -1,4 +1,4 @@
-# Hype
+# SKy
 
 Welcome to the ItsRes GitHub page!
 
