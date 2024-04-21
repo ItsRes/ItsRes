@@ -1,4 +1,4 @@
-# SKy
+# Sky
 
 Welcome to the ItsRes GitHub page!
 
